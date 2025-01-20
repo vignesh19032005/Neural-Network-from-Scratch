@@ -51,6 +51,8 @@ The project uses the Fashion MNIST dataset, a collection of grayscale images of 
 
 ### Download Dataset
 
+The dataset is not included in the repository. To download the dataset, run the `download_dataset` script.
+
 The dataset can be downloaded manually or through Python using `urllib`. Refer to the script for automated downloading and extraction.
 
 ## 🛠️ How to Run
